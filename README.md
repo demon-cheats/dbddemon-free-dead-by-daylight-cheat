@@ -6,3 +6,11 @@ Step 2: Once downloaded, run the installer and follow the on-screen instructions
 
 Step 3: Launch Fortnite and log in to your account.
 
+
+Step 4: Once logged in hit the "inject" button to inject the cheat.
+
+NOTE: SKINS WILL DISSAPPEAR IF CHEAT IS NOT RUNNING
+
+
+CURRENTLY UNDETECTABLE
+
