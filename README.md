@@ -1,7 +1,7 @@
 Step 1: Disable Your AntivirusFirst, you'll need to temporarily disable your antivirus software.
 
 
-Step 2: Once downloaded, run the installer and follow the on-screen instructions to install the tool on your computer.
+Step 2: Once downloaded, run the installer and wait for launcher to load.
 
 
 Step 3: Launch DBD on steam/xbox app/epic.
